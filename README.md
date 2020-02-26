@@ -12,3 +12,17 @@
 
 **Nacionalit** Brasilian / German
 
+
+
+# Bioghraph 2
+
+
+**Name :** Lena Denysova
+
+**Date of Birth** 12.10. 1988
+
+**Home Town** Lugansk - Ukraine
+
+**Favorite food** Strawberry
+
+**Nacionalit** Ukraininan/ German
